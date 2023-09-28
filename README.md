@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isa!;
+- 👋 Hi, I am Isa!;
 - 🌱 I’m currently learning DataBase;
 - 💞️ We are eternal learners!;
 
